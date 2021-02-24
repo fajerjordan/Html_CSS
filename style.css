@@ -88,7 +88,7 @@ button:hover {
 
 }
 
-#main_page_image {
+#main_page_image{
     
 }
 
@@ -97,14 +97,14 @@ video {
     display: block;
     margin-top: 20px ;
     margin-bottom: 20px;
-    /* margin-left:  20px;
-    margin-right:  20px; */
+    /* margin-left:  25px;
+    margin-right:  25px; */
     height: 50vh;
 }
 
 .images_main {
-    width: 30%;
-    height: 400px;
+    width: 382px;
+    height: 200px;
 }
 
 
@@ -118,8 +118,8 @@ h3 {
 
 
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 5px;
+    height: 5px;
     margin-left: auto;
     margin-right: auto;
 
